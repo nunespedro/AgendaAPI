@@ -1,0 +1,48 @@
+## Ignore build results
+bin/
+obj/
+
+## User-specific files
+.vs/
+.vscode/
+.idea/
+
+## User-specific files for Visual Studio for Mac
+vsmac/
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## Windows Installer files
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleasePublic/
+
+## Windows Installer files
+*.appx
+*.appxbundle
+*.appxupload
+
+## User-specific files
+.user
+.userosscache
+.suo
+.userprefs
+
+## User-specific files for Visual Studio for Mac
+vsmac/
+
+## ASP.NET Scaffolding
+Scaffolding/
+
+## .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## npm package
+node_modules/

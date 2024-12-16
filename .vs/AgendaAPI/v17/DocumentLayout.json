@@ -50,16 +50,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
@@ -70,8 +62,7 @@
               "RelativeToolTip": "Application\\Services\\IContactService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwBkAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T00:12:13.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T00:12:13.099Z"
             },
             {
               "$type": "Document",
@@ -83,8 +74,7 @@
               "RelativeToolTip": "Application\\Mapping\\DomainToDTOMapping.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T23:54:23.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T23:54:23.386Z"
             },
             {
               "$type": "Document",
@@ -109,8 +99,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T22:33:50.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T22:33:50.232Z"
             },
             {
               "$type": "Document",
@@ -122,8 +111,7 @@
               "RelativeToolTip": "Infra\\Repository\\ContactRepository.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAwBAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T01:00:39.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T01:00:39.059Z"
             },
             {
               "$type": "Document",
@@ -135,8 +123,7 @@
               "RelativeToolTip": "Domain\\DTOs\\ContactDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T23:43:08.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T23:43:08.202Z"
             },
             {
               "$type": "Document",
@@ -148,8 +135,7 @@
               "RelativeToolTip": "Domain\\Model\\Contact.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T00:45:16.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T00:45:16.04Z"
             },
             {
               "$type": "Document",
@@ -161,8 +147,7 @@
               "RelativeToolTip": "Domain\\Model\\IContactRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T00:49:32.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T00:49:32.424Z"
             },
             {
               "$type": "Document",
@@ -174,8 +159,7 @@
               "RelativeToolTip": "Application\\Validators\\ContactValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T00:18:20.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T00:18:20.023Z"
             },
             {
               "$type": "Document",
@@ -187,8 +171,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-15T23:02:23.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T23:02:23.178Z"
             }
           ]
         }
