@@ -14,6 +14,6 @@ Este é o backend do projeto AgendaAPI, desenvolvido com .NET 8, para gerenciame
 - **.NET 8**
 - Entity Framework Core
 - FluentValidation
-- *utoMapper
+- AutoMapper
 - PostgreSQL
 - Swagger
